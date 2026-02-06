@@ -1,0 +1,8 @@
+empno,ename,mgr,sal
+1001,Krish,1002,5000
+1002,Rajesh,1005,6000
+1003,John,1005,4000
+1004,Charan,1005,6000
+1005,Janakiram,,6000
+1006,Smith,1002,6000
+
