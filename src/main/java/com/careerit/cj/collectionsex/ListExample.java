@@ -14,5 +14,6 @@ public class ListExample {
         for(String name: names){
             System.out.println(name);
         }
+        names.forEach(System.out::println);
     }
 }
